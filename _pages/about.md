@@ -55,7 +55,8 @@ My research interests are in the intersection between autonomous driving and mac
 - *2020.06* CQU Outstanding Graduate (Top 1%)
 - *2019.09* Thanksgiving for Scientists Scholarship, China (Highest scholarship in CQU, 0.2%)
 - *2018.09* National Scholarship, China (Top 0.2%)
-***
+
+
 - *2020.12* Second Prize of National Post-Graduate Mathematical Contest in Modeling, China
 - *2019.09* Third Prize of Challenge Cup National Academic Science and Technology Works Competition, China
 - *2018.11* Second Prize of National College Youth Entrepreneurship Competition, China
