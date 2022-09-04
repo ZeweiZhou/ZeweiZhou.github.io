@@ -30,8 +30,8 @@ My research interests are in the intersection between autonomous driving and mac
   - Core Courses: Mathematical Model (4.0/4.0), C Program Design (4.0/4.0), Fundamentals of Computer Technology (3.9/4.0), Calculus A (4.0/4.0), Linear Algebra (4.0/4.0), Probability and Statistics (4.0/4.0), Automobile Structure (4.0/4.0), Key Technologies of New Energy Vehicles (4.0/4.0), Fundamentals of Vehicle Dynamic and Control (4.0/4.0)
 
 # 🔥 News
-- *2022.08*: &nbsp;🎉🎉 Our paper on evolutionary decision-making and planning for autonomous driving has been submitted to _Engineering_, the official journal of the Chinese Academy of Engineering, and is under reviewed now.
-- *2022.07*: &nbsp;🎉🎉 Our paper on cooperative vehicle infrastructure system has been submitted to _IEEE Transactions on Intelligent Transportation System_, and is under reviewed now.
+- *2022.08*: &nbsp;🎉🎉 Our paper on evolutionary decision-making and planning for autonomous driving has been submitted to _Engineering_, the official journal of the Chinese Academy of Engineering, and it is under reviewed now.
+- *2022.07*: &nbsp;🎉🎉 Our paper on cooperative vehicle infrastructure system has been submitted to _IEEE Transactions on Intelligent Transportation System_, and it is under reviewed now.
 - *2022.04*: &nbsp;🎉🎉 Our paper on trajectory-prediction methods for autonomous driving has been accepted by _IEEE Transactions on Intelligent Vehicles_! 
 - *2022.03*: &nbsp;🎉🎉 Our paper on speed prediction in transportation system has been accepted by iScience from **Cell Press**！
 
