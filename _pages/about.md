@@ -21,11 +21,19 @@ I am currently a master's student in the Institute of Intelligent Vehicles at To
 
 My research interests are in the intersection between autonomous driving and machine learning, whose goal is to enhance the safety of autonomous driving by developing algorithms and techniques that help the machine make intelligent decisions and plan trajectory. 
 
+# 📖 Educations
+- *2020.09 - 2023.03*, Master of Science, Automotive Engineering, Tongji University (Tongji), Shanghai, China 
+  - GPA: 5.00/5.00 (92.36/100)
+  - Core Courses: System Identification (5.0/5.0), Modern Control Theory (5.0/5.0), Numerical Analysis (5.0/5.0)
+- *2016.09 - 2020.06*, Bachelor of Engineering, Automotive Engineering, Chongqing University (CQU), Chongqing, China
+  - GPA: 3.71/4.00 (94.89/100) | Comprehensive Ranking:  1^{st}/154 (Top 0.6%)
+  - Core Courses: Mathematical Model (4.0/4.0), C Program Design (4.0/4.0), Fundamentals of Computer Technology (3.9/4.0), Calculus A (4.0/4.0), Linear Algebra (4.0/4.0), Probability and Statistics (4.0/4.0), Automobile Structure (4.0/4.0), Key Technologies of New Energy Vehicles (4.0/4.0), Fundamentals of Vehicle Dynamic and Control (4.0/4.0)
+
 # 🔥 News
-- *2022.08*: &nbsp;🎉🎉 Our paper on evolutionary decision-making and planning for autonomous driving has been submitted to Engineering, the official journal of the Chinese Academy of Engineering.
-- *2022.07*: &nbsp;🎉🎉 Our paper on cooperative vehicle infrastructure system has been submitted to IEEE Transactions on Intelligent Transportation System.
-- *2022.04*: &nbsp;🎉🎉 Our paper on trajectory-prediction methods for autonomous driving has been accepted by IEEE Transactions on Intelligent Vehicles! 
-- *2022.03*: &nbsp;🎉🎉 Our paper on speed prediction in transportation system has been accepted by iScience from Cell Press！ 
+- *2022.08*: &nbsp;🎉🎉 Our paper on evolutionary decision-making and planning for autonomous driving has been submitted to _Engineering_, the official journal of the Chinese Academy of Engineering, and are under reviewed now.
+- *2022.07*: &nbsp;🎉🎉 Our paper on cooperative vehicle infrastructure system has been submitted to _IEEE Transactions on Intelligent Transportation System_, and are under reviewed now.
+- *2022.04*: &nbsp;🎉🎉 Our paper on trajectory-prediction methods for autonomous driving has been accepted by _IEEE Transactions on Intelligent Vehicles_! 
+- *2022.03*: &nbsp;🎉🎉 Our paper on speed prediction in transportation system has been accepted by iScience from **Cell Press**！
 
 # 📝 Publications 
 
@@ -44,16 +52,18 @@ My research interests are in the intersection between autonomous driving and mac
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Tongji Outstanding Master’s Scholarship
+- *2020.06* CQU Outstanding Graduate (Top 1%)
+- *2019.09* Thanksgiving for Scientists Scholarship, China (Highest scholarship in CQU, 0.2%)
+- *2018.09* National Scholarship, China (Top 0.2%)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+<!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
 
+<!--
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
