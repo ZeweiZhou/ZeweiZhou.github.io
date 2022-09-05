@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a master's student in the Institute of Intelligent Vehicles at Tongji University, co-advised by [Prof Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ&hl=zh-CN) and Prof Zhuoping Yu. 
 
-My research interests are in the intersection between autonomous driving and machine learning, whose goal is to enhance the safety of autonomous driving by developing algorithms and techniques that help the machine make intelligent decisions and plan trajectory. 
+My research interests are in the intersection between autonomous driving and machine learning, whose goal is to enhance the safety of autonomous driving by developing algorithms and techniques that help the machine make intelligent decisions and plan trajectory. **I am searching for Ph.D. positions in related field. Please feel free to connect with me.**
 
 # 📖 Educations
 - *2020.09 - 2023.03*, Master of Science, Automotive Engineering, Tongji University (Tongji), Shanghai, China 
