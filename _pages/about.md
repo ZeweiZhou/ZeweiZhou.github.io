@@ -36,6 +36,7 @@ My research interests are in the intersection between autonomous driving and mac
 - *2022.03*: &nbsp;🎉🎉 Our paper on speed prediction in transportation system has been accepted by iScience from **Cell Press**！
 
 # 📝 Publications 
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -49,6 +50,64 @@ My research interests are in the intersection between autonomous driving and mac
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-->
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/Comprehensive_Study_of_Speed_Prediction.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A Comprehensive Study of Speed Prediction in Transportation System: From Vehicle to Traffic
+
+**Zewei Zhou**, Ziru Yang, Yuanjian Zhang, Yanjun Huang, Hong Chen, Zhuoping Yu
+
+_**iScience (Cell Press)**_, 2022 
+
+- We comprehensively analyze existing researches of speed prediction in transportation system at three levels, i.e. macro traffic, micro vehicles, and meso lane.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/Survey_on_Trajectory_Prediction_Methods.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A Survey on Trajectory-Prediction Methods for Autonomous Driving
+
+Kang Yuan, Yanjun Huang, Shuo Yang, **Zewei Zhou**, Yulei Wang, Dongpu Cao, Hong Chen
+
+_**IEEE Transactions on Intelligent Vehicles**_, 2022
+
+- We provide a comparative review of trajectory-prediction methods for autonomous driving and elaborate the popular methods based on physics, classic machine learning, deep learning, and reinforcement learning. 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/Evolutionary_Decision-Making_Planning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Evolutionary Decision-Making and Planning for Autonomous Driving based on Safe and Rational Exploration and Exploitation
+
+Kang Yuan, Yanjun Huang, Shuo Yang, **Zewei Zhou**, Yulei Wang, Dongpu Cao, Hong Chen
+
+_**Engineering**_, 2022 (under review)
+
+- We propose a online-evolution framework of decision-making and planning for autonomous driving in the operating stage is proposed by developing a hybrid data and model-driven method based on DRL and MPC. 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/Cooperative_Vehicle_Infrastructure_System.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Cooperative Vehicle Infrastructure System: Architecture, Functions and Future Challenges
+
+Yangjie Ji, **Zewei Zhou**, Ziru Yang, Yanjun Huang, Hong Chen, Zhuoping Yu
+
+_**IEEE Transactions on Intelligent Transportation System**_, 2022 (under review)
+
+- We provide a comparative review of trajectory-prediction methods for autonomous driving and elaborate the popular methods based on physics, classic machine learning, deep learning, and reinforcement learning. 
+</div>
+</div>
+
+
 
 # 🎖 Honors and Awards
 - *2021.09* Tongji Outstanding Master’s Scholarship
