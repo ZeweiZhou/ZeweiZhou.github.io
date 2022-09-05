@@ -52,6 +52,7 @@ My research interests are in the intersection between autonomous driving and mac
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
 
+
 <div class='paper-box'><div class='paper-box-image'><img src='images/Comprehensive_Study_of_Speed_Prediction.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -107,6 +108,19 @@ _**IEEE Transactions on Intelligent Transportation System**_, 2022 (under review
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/Reliable_Path_Planning_Method.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A Reliable Path Planning Method for Lane Change Based on Hybrid PSO-IACO Algorithm
+
+**Zewei Zhou**, Zhuoping Yu, Lu Xiong, Dequan Zeng, Zhiqiang Fu, Zhuoren Li, Bo leng
+
+_**2021 6th International Conference on Transportation Information and Safety (ICTIS)**_, 2021
+
+- We propose a path planning method based on B-spline and hybrid PSO-IACO algorithm to reliably obtain a quality path with control flexibility and continuous curvature.
+</div>
+</div>
 
 
 # 🎖 Honors and Awards
