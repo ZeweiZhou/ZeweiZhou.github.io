@@ -42,24 +42,17 @@
 
 .paper-box {
     display: flex;
-    justify-content: left;
+    justify-content: center;
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
+    padding: 0.5em;
     
-
     .paper-box-image{
-        justify-content: center;
-        display: flex;
-        width: 100%;
+        min-width: 300px;
+        max-width: 80%;
         order: 2;
-        img {
-            max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
-        }
     }
     
     .paper-box-text{
@@ -69,15 +62,13 @@
     
     @include breakpoint($medium) {
         .paper-box-image{
-            justify-content: left;
+            padding-right: 1em;
             min-width: 200px;
             max-width: 40%;
             order: 1;
         }
         
         .paper-box-text{
-            justify-content: left;
-            padding-left: 2em;
             max-width: 60%;
             order: 2;
         }
@@ -86,6 +77,7 @@
 
 
 }
+
 
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
@@ -97,13 +89,3 @@ h1:before, .anchor:before {
     margin-top: -$scroll_offset;
 }
 
-.badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
-    color: white;
-    background-color: #00369f;
-    font-size: .8em;
-}

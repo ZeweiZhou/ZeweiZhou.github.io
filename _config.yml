@@ -7,9 +7,9 @@
 
 # Site Settings
 title                    : "Zewei Zhou"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "final year M.S. student at Tongji University. Focusing on autonomous driving, decision-making, and trajectory planning. "
 repository               : "ZeweiZhou/Zewei-Zhou.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zewei Zhou"
-  avatar           : "images/Zewei_Zhou.png"
-  bio              : "Tongji University // master's student at Tongji University. Focusing on autonomous driving, decision-making, and trajectory planning"
+  avatar           : "images/android-chrome-512x512.png"
+  bio              : "Tongji University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/zewei-zhou/"
+  linkedin         : "zewei-zhou"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
