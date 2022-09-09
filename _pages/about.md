@@ -99,7 +99,7 @@ _**IEEE Transactions on Intelligent Vehicles**_, 2022
 
 Kang Yuan, Yanjun Huang, Shuo Yang, **Zewei Zhou**, Yulei Wang, Dongpu Cao, Hong Chen
 
-_**Engineering**_, 2022 (JCR Q1, under review)
+_**Engineering**_, 2022 (_JCR Q1_, under review)
 
 - We propose an online-evolution framework of decision-making and planning for autonomous driving in the operating stage by developing a hybrid data and model-driven method based on DRL and MPC. 
 </div>
