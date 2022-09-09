@@ -109,13 +109,13 @@ _**Engineering**_, 2022 (_JCR Q1_, under review)
 <div class='paper-box'><div class='paper-box-image'><img src='images/Cooperative_Vehicle_Infrastructure_System.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Cooperative Vehicle Infrastructure System: Architecture, Functions and Future Challenges]()
+[Cooperative Vehicle Infrastructure System: Architecture, Applications and Challenges]()
 
 Yangjie Ji, **Zewei Zhou**, Ziru Yang, Yanjun Huang, Hong Chen, Zhuoping Yu
 
 _**IEEE Transactions on Intelligent Transportation System**_, 2022 (under review)
 
-- We review the current research on the architecture and functions of Cooperative Vehicle Infrastructure System, and identify potential methods to enhance safety and efficiency through smart vehicles, smart roads, even smart cities.
+- We review the current research on the architecture and applications of Cooperative Vehicle Infrastructure System, and identify potential methods to enhance safety and efficiency through smart vehicles, smart roads, even smart cities.
 </div>
 </div>
 
