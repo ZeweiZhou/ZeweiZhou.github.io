@@ -143,7 +143,7 @@ _**2021 6th International Conference on Transportation Information and Safety (I
 _**Research Assistant**_. Advised: [Prof Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ) and [Prof Wei Tian](https://scholar.google.com/citations?user=aYKQn88AAAAJ)
 
 - We design a global motion planner based on A* algorithm to provide global reference trajectory for a given park.
-- We proposed a cooperative planning and control method for a AGVs group to coordinate movements with each other based on the reference trajectory and guide them to move a bus to its destination.
+- We propose a cooperative planning and control method for a AGVs group to coordinate movements with each other based on the reference trajectory and guide them to move a bus to its destination.
 - The method is validated and tested in real bus and AGVs.
 
 </div>
