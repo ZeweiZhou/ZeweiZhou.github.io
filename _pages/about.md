@@ -111,7 +111,7 @@ _**Engineering**_, 2022 (_JCR Q1_, under review)
 
 [Cooperative Vehicle Infrastructure System: Architecture, Applications and Challenges]()
 
-Yangjie Ji, **Zewei Zhou**, Ziru Yang, Yanjun Huang, Hong Chen, Zhuoping Yu
+Yangjie Ji, **Zewei Zhou**, Ziru Yang, Yanjun Huang, Hong Chen, Lu Xiong, Zhuoping Yu
 
 _**IEEE Transactions on Intelligent Transportation System**_, 2022 (under review)
 
