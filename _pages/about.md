@@ -83,7 +83,7 @@ _**iScience (JCR Q1, Cell Press)**_, 2022
 
 [A Survey on Trajectory-Prediction Methods for Autonomous Driving](http://dx.doi.org/10.1109/TIV.2022.3167103)
 
-Kang Yuan, Yanjun Huang, Shuo Yang, **Zewei Zhou**, Yulei Wang, Dongpu Cao, Hong Chen
+Yanjun Huang, Jiatong Du, Ziru Yang, **Zewei Zhou**, Lin Zhang, Hong Chen
 
 _**IEEE Transactions on Intelligent Vehicles**_, 2022
 
