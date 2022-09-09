@@ -42,7 +42,7 @@ My research interests are in the intersection between autonomous driving and mac
 - *2022.07*: &nbsp;🎉🎉 Our paper on cooperative vehicle infrastructure system has been submitted to _IEEE Transactions on Intelligent Transportation System_, and it is under reviewed now.
 -->
 - *2022.04*: &nbsp;🎉🎉 Our paper on trajectory-prediction methods for autonomous driving has been accepted by _IEEE Transactions on Intelligent Vehicles_! 
-- *2022.03*: &nbsp;🎉🎉 Our paper on speed prediction in transportation system has been accepted by _iScience_ from [_**Cell Press**_](https://www.cell.com/)！
+- *2022.03*: &nbsp;🎉🎉 Our paper on speed prediction in transportation system has been accepted by _iScience_ ([_**Cell Press**_](https://www.cell.com/))！
 - *2021.12*: &nbsp;🎉🎉 Our multiple automated guided vehicles (AGVs) passed through field testing and could coordinate movements with each other, providing a valet experience.
 - *2020.06*: &nbsp;🎉🎉 I graduated from Chongqing University as an Outstanding Graduate.
 
