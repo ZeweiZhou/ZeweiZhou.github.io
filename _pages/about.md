@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a final year M.S. student in the Institute of Intelligent Vehicles at Tongji University, co-advised by [Prof Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ&hl=zh-CN) and [Prof Zhuoping Yu](https://ieeexplore.ieee.org/author/37402463600). I also work closely with [Dr. Yuanjian Zhang](https://www.lboro.ac.uk/departments/aae/staff/yuanjian-zhang/).
+I am currently a final year M.S. student in the Institute of Intelligent Vehicles at Tongji University, co-advised by [Prof Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ) and [Prof Zhuoping Yu](https://ieeexplore.ieee.org/author/37402463600). I also work closely with [Dr. Yuanjian Zhang](https://www.lboro.ac.uk/departments/aae/staff/yuanjian-zhang/).
 
 My research interests are in the intersection between autonomous driving and machine learning, whose goal is to enhance the safety of autonomous driving by developing algorithms and techniques that help machines predict others, make intelligent decisions and plan trajectories. 
 
@@ -140,7 +140,7 @@ _**2021 6th International Conference on Transportation Information and Safety (I
 
 [Automated Parking System for Electric Bus Based on Automated Guided Vehicles (AGV)](), Institute of Intelligent Vehicles,*2020.10 - 2021.12*
 
-_**Research Assistant**_. Advised: [Prof Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ&hl=zh-CN) and [Prof Wei Tian](https://scholar.google.com/citations?user=aYKQn88AAAAJ&)
+_**Research Assistant**_. Advised: [Prof Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ) and [Prof Wei Tian](https://scholar.google.com/citations?user=aYKQn88AAAAJ)
 
 - We design a global motion planner based on A* algorithm to provide global reference trajectory for a given park.
 - We proposed a cooperative planning and control method for a AGVs group to coordinate movements with each other based on the reference trajectory and guide them to move a bus to its destination.
