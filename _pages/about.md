@@ -115,7 +115,7 @@ Yangjie Ji, **Zewei Zhou**, Ziru Yang, Yanjun Huang, Hong Chen, Lu Xiong, Zhuopi
 
 _**IEEE Transactions on Intelligent Transportation System**_, 2022 (under review)
 
-- We review the current research on the architecture and applications of Cooperative Vehicle Infrastructure System, and identify potential methods to enhance safety and efficiency through smart vehicles, smart roads, even smart cities.
+- We review the state of the art research on the architecture and applications of Cooperative Vehicle Infrastructure System, and identify potential methods to enhance safety and efficiency through smart vehicles, smart roads, even smart cities.
 </div>
 </div>
 
