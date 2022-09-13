@@ -101,7 +101,7 @@ Kang Yuan, Yanjun Huang, Shuo Yang, **Zewei Zhou**, Yulei Wang, Dongpu Cao, Hong
 
 _**Engineering**_, 2022 (_JCR Q1_, under review)
 
-- We propose an online-evolution framework of decision-making and planning for autonomous driving in the operating stage by developing a hybrid data and model-driven method based on DRL and MPC. 
+- We propose an online-evolution framework of decision-making and planning for autonomous driving in the operating stage by developing a hybrid data- and model-driven method based on DRL and MPC. 
 </div>
 </div>
 
