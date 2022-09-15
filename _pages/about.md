@@ -27,7 +27,7 @@ My research interests are in the intersection between autonomous driving and mac
 - *2020.09 - 2023.03*, Master of Science, Automotive Engineering, Tongji University (Tongji), Shanghai, China
   - GPA: 5.00/5.00 (92.36/100), Tongji Outstanding Student (*Top 4%*)
 - *2016.09 - 2020.06*, Bachelor of Engineering, Automotive Engineering, Chongqing University (CQU), Chongqing, China
-  - GPA: 3.71/4.00 (94.89/100), Comprehensive Ranking: 1<sup>st</sup>/154 (*Top 0.6%*)
+  - GPA: 3.71/4.00 (94.89/100), Comprehensive Ranking: 1<sup>st</sup>/154 (*Top 0.6%*), CQU Outstanding Graduate
 
 <!--
 - Core Courses: System Identification (5.0/5.0), Modern Control Theory (5.0/5.0), Numerical Analysis (5.0/5.0)
@@ -144,7 +144,7 @@ _**Student Researcher**_. Advised: [Prof Yanjun Huang](https://scholar.google.co
 
 - We design a global motion planner based on A* algorithm to provide global reference trajectory for a given park.
 - We propose a cooperative planning and control method for an AGVs group to coordinate their movement with each other based on the reference trajectory and guide them to move a bus to its destination.
-- The method is validated and tested in real bus and AGVs.
+- The method is validated and tested in a real bus and AGVs.
 
 </div>
 </div>
@@ -169,6 +169,7 @@ _**Excellent Undergraduate Graduation Thesis**_. Advised: [Prof Ling Zheng](http
 - *2021.09* Tongji Outstanding Master’s Scholarship
 - *2019.09* Thanksgiving for Scientists Scholarship, China (*Highest scholarship in CQU, Top 0.2%*)
 - *2018.09* National Scholarship, China (*Highest scholarship awarded by the Chinese government, Top 0.2%*)
+- *2018 - 2019* CQU First-class Scholarship (Four times, 2%)
 
 ---
 
