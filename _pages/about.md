@@ -153,7 +153,7 @@ _**Student Researcher**_. Advised: [Prof. Yanjun Huang](https://scholar.google.c
 <div class='paper-box'><div class='paper-box-image'><img src='images/DPQPplanning.gif' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Undergraduate Thesis: Local Planning and Obstacle Avoidance for Autonomous Vehicles](), *2020.01 - 2020.06*
+[Undergraduate Thesis: Local Planning and Obstacle Avoidance for Autonomous Vehicles](), *2019.09 - 2020.06*
 
 _**Excellent Undergraduate Graduation Thesis**_. Advised: [Prof. Ling Zheng](http://mve.cqu.edu.cn/info/1309/4297.htm)
 
