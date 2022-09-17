@@ -140,7 +140,7 @@ _**2021 6th International Conference on Transportation Information and Safety (I
 
 [Automated Parking System for Electric Bus Based on Automated Guided Vehicles (AGV)](), Institute of Intelligent Vehicles,*2020.10 - 2021.12*
 
-_**Student Researcher**_. Advised: [Prof Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ) and [Prof Wei Tian](https://scholar.google.com/citations?user=aYKQn88AAAAJ)
+_**Student Researcher**_. Advised: [Prof. Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ) and [Prof. Wei Tian](https://scholar.google.com/citations?user=aYKQn88AAAAJ)
 
 - We design a global motion planner based on A* algorithm to provide global reference trajectory for a given park.
 - We propose a cooperative planning and control method for an AGVs group to coordinate their movement with each other based on the reference trajectory and guide them to move a bus to its destination.
@@ -155,7 +155,7 @@ _**Student Researcher**_. Advised: [Prof Yanjun Huang](https://scholar.google.co
 
 [Undergraduate Thesis: Local Planning and Obstacle Avoidance for Autonomous Vehicles](), *2020.01 - 2020.06*
 
-_**Excellent Undergraduate Graduation Thesis**_. Advised: [Prof Ling Zheng](http://mve.cqu.edu.cn/info/1309/4297.htm)
+_**Excellent Undergraduate Graduation Thesis**_. Advised: [Prof. Ling Zheng](http://mve.cqu.edu.cn/info/1309/4297.htm)
 
 - Spline interpolation method is adopted to smooth the rough reference path.
 - Path and speed planning are divided into two steps: lattice sampling and interpolation optimization. Then, they are solved by dynamic programming and quadratic programming respectively.
