@@ -19,13 +19,13 @@ redirect_from:
 
 I am currently a final year M.S. student in the Institute of Intelligent Vehicles at Tongji University, co-advised by [Prof. Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ) and [Prof. Zhuoping Yu](https://ieeexplore.ieee.org/author/37402463600). I also work closely with [Dr. Yuanjian Zhang](https://www.lboro.ac.uk/departments/aae/staff/yuanjian-zhang/).
 
-My research interests are in the intersection between autonomous driving and machine learning, whose goal is to enhance the safety of autonomous driving by developing algorithms and techniques that help machines predict others, make intelligent decisions and plan trajectories. 
+Intelligent reasoning is the key to safe and trustworthy autonomy. My primary research interests are the reasoning process (i.e. interactive prediction, decision-making, and planning) of autonomous systems, which can endow connected autonomous vehicles with the ability to intelligently interact and cooperate with others. 
 
 🎓[**I am searching for Ph.D. positions in the related field.**]()
 
 # 📖 Educations
 - *2020.09 - 2023.03*, Master of Science, Automotive Engineering, Tongji University (Tongji), Shanghai, China
-  - GPA: 5.00/5.00 (92.36/100), Tongji Outstanding Student (*Top 4%*)
+  - GPA: 5.00/5.00 (92.36/100), Test Waiver Admission (Ranking: 1<sup>st</sup>/250), Tongji Outstanding Student (*Top 4%*)
 - *2016.09 - 2020.06*, Bachelor of Engineering, Automotive Engineering, Chongqing University (CQU), Chongqing, China
   - GPA: 3.71/4.00 (94.89/100), Comprehensive Ranking: 1<sup>st</sup>/154 (*Top 0.6%*), CQU Outstanding Graduate
 
@@ -166,22 +166,23 @@ _**Excellent Undergraduate Graduation Thesis**_. Advised: [Prof. Ling Zheng](htt
 
 
 # 🏅 Honors and Awards
+- *2022.09* National scholarship for Postgraduates, China (_Highest scholarship for graduates awarded by the Chinese government, 0.2%_)
 - *2021.09* Tongji Outstanding Master’s Scholarship
 - *2019.09* Thanksgiving for Scientists Scholarship, China (*Highest scholarship in CQU, Top 0.2%*)
-- *2018.09* National Scholarship, China (*Highest scholarship awarded by the Chinese government, Top 0.2%*)
+- *2018.09* National Scholarship, China (*Highest scholarship for undergraduates awarded by the Chinese government, Top 0.2%*)
 - *2018 - 2019* CQU First-class Scholarship (Four times, 2%)
 
 ---
 
 - *2020.12* Second Prize of National Post-Graduate Mathematical Contest in Modeling, China
-- *2019.09* Third Prize of Challenge Cup National Academic Science and Technology Works Competition, China (*Top 2.7%*)
-- *2018.11* Second Prize of National College Youth Entrepreneurship Competition, China (*Top 0.09%*)
+- *2019.09* Third Prize of Challenge Cup National Academic Science and Technology Works Competition, China (*Top 2.7% of 45,000*)
+- *2018.11* Second Prize of National College Youth Entrepreneurship Competition, China (*Top 0.09% of 150,000*)
 - *2018.04* Meritorious Winner of 2018 Mathematical Contest in Modeling, U.S.
 
 
 
 # 🏓 Miscellaneous
-- When I was a child, I am impressed by the consummate skills of [Takumi Fujiwara](https://en.wikipedia.org/wiki/Initial_D) and pure freedom when he get to explore the speeds with his car [AE86](https://en.wikipedia.org/wiki/Toyota_AE86) in [*Initial D*](https://en.wikipedia.org/wiki/Initial_D). Therefore, I am really interested in how to endow the machine with the ability to drive like a skillful human driver, even like [Takumi Fujiwara](https://en.wikipedia.org/wiki/Initial_D). 
+- When I was a child, I am impressed by the consummate skills of [Takumi Fujiwara](https://en.wikipedia.org/wiki/Initial_D) and pure freedom when he get to explore the speeds with his car [AE86](https://en.wikipedia.org/wiki/Toyota_AE86) in [*Initial D*](https://en.wikipedia.org/wiki/Initial_D). Therefore, I am really interested in how to endow every machine on roads with the ability to drive like a skillful human driver, even like [Takumi Fujiwara](https://en.wikipedia.org/wiki/Initial_D). 
 - Besides, I like playing ping pong, and I am good at [penhold grip](https://en.wikipedia.org/wiki/Table_tennis_styles). Now, I am learning to use the [shakehand grip](https://en.wikipedia.org/wiki/Table_tennis_styles) for offense and defense. 
 - I am also a big fan of guitar, especially [Fingerstyle](https://en.wikipedia.org/wiki/Fingerstyle_guitar). My favorite acoustic guitarist is [Tommy Emmanuel](https://en.wikipedia.org/wiki/Tommy_Emmanuel). 
 
