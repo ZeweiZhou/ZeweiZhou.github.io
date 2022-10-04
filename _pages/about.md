@@ -67,7 +67,7 @@ https://www.lboro.ac.uk/departments/aae/staff/yuanjian-zhang/
 <div class='paper-box'><div class='paper-box-image'><img src='images/Comprehensive_Study_of_Speed_Prediction.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[A Comprehensive Study of Speed Prediction in Transportation System: From Vehicle to Traffic](http://dx.doi.org/10.1016/j.isci.2022.103909)
+[A Comprehensive Study of Speed Prediction in Transportation System: From Vehicle to Traffic](https://drive.google.com/file/d/18EoGxobyfKRCDRgb6SscFd218SYE78cg/view?usp=sharing)
 
 **Zewei Zhou**, Ziru Yang, Yuanjian Zhang, Yanjun Huang, Hong Chen, Zhuoping Yu
 
@@ -81,7 +81,7 @@ _**iScience (JCR Q1, Cell Press)**_, 2022
 <div class='paper-box'><div class='paper-box-image'><img src='images/Survey_on_Trajectory_Prediction_Methods.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[A Survey on Trajectory-Prediction Methods for Autonomous Driving](http://dx.doi.org/10.1109/TIV.2022.3167103)
+[A Survey on Trajectory-Prediction Methods for Autonomous Driving](https://drive.google.com/file/d/1cLSfZYc5rofWgcRv0uyNkhuxlqZ0pkpT/view?usp=sharing)
 
 Yanjun Huang, Jiatong Du, Ziru Yang, **Zewei Zhou**, Lin Zhang, Hong Chen
 
@@ -95,7 +95,7 @@ _**IEEE Transactions on Intelligent Vehicles**_, 2022
 <div class='paper-box'><div class='paper-box-image'><img src='images/Evolutionary_Decision-Making_Planning.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Evolutionary Decision-Making and Planning for Autonomous Driving based on Safe and Rational Exploration and Exploitation]()
+[Evolutionary Decision-Making and Planning for Autonomous Driving based on Safe and Rational Exploration and Exploitation](https://drive.google.com/file/d/1njriq5dcYIoWA4KhAy32pQBv_Ia3eA1I/view?usp=sharing)
 
 Kang Yuan, Yanjun Huang, Shuo Yang, **Zewei Zhou**, Yulei Wang, Dongpu Cao, Hong Chen
 
@@ -123,7 +123,7 @@ _**IEEE Transactions on Intelligent Transportation System**_, 2022 (under review
 <div class='paper-box'><div class='paper-box-image'><img src='images/Reliable_Path_Planning_Method.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[A Reliable Path Planning Method for Lane Change Based on Hybrid PSO-IACO Algorithm]()
+[A Reliable Path Planning Method for Lane Change Based on Hybrid PSO-IACO Algorithm](https://drive.google.com/file/d/1GyeHc9Tua6eYRKdA83wA7WjDPOM2mPp6/view?usp=sharing)
 
 **Zewei Zhou**, Zhuoping Yu, Lu Xiong, Dequan Zeng, Zhiqiang Fu, Zhuoren Li, Bo leng
 
