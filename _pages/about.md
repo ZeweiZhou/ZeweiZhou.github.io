@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a final year M.S. student in the Institute of Intelligent Vehicles at Tongji University, co-advised by [Prof. Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ) and [Prof. Zhuoping Yu](https://ieeexplore.ieee.org/author/37402463600). I also work closely with [Prof. Yuanjian Zhang](https://www.lboro.ac.uk/departments/aae/staff/yuanjian-zhang/).
+I am currently a final year M.S. student in the Institute of Intelligent Vehicles at Tongji University, co-advised by [Prof. Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ) and [Prof. Zhuoping Yu](https://ieeexplore.ieee.org/author/37402463600). I also work closely with [Dr. Yuanjian Zhang](https://www.lboro.ac.uk/departments/aae/staff/yuanjian-zhang/).
 
 Intelligent reasoning is the key to safe and trustworthy autonomy. My primary research interests are the reasoning process (i.e. interactive prediction, decision-making, and planning) of autonomous systems, which can endow connected autonomous vehicles with the ability to intelligently interact and cooperate with others. 
 
