@@ -137,7 +137,7 @@ _**2021 6th International Conference on Transportation Information and Safety (I
 <div class='paper-box'><div class='paper-box-image'><img src='images/CHiRP.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Master’s Thesis: Reactive Trajectory Prediction for Autonomous Driving with Cooperative Vehicle Infrastructure System](), *2021.11 - present*
+[Master’s Thesis: Reactive Trajectory Prediction for Autonomous Driving with Cooperative Vehicle Infrastructure System](), _**Current Project**_, *2021.11 - present*
 
 Advised: [Prof. Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ) and [Prof. Zhuoping Yu](https://ieeexplore.ieee.org/author/37402463600)
 
