@@ -134,7 +134,7 @@ _**2021 6th International Conference on Transportation Information and Safety (I
 </div>
 
 # 🔬 Other Research Project
-<div class='paper-box'><div class='paper-box-image'><img src='images/CHIRP.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/CHiRP.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [Master’s Thesis: Reactive Trajectory Prediction for Autonomous Driving with Cooperative Vehicle Infrastructure System](), *2021.11 - present*
