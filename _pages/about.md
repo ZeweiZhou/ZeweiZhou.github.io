@@ -194,7 +194,7 @@ _**Excellent Undergraduate Graduation Thesis**_. Advised: [Prof. Ling Zheng](htt
 
 # 🏓 Miscellaneous
 - When I was a child, I am impressed by the consummate skills of [Takumi Fujiwara](https://en.wikipedia.org/wiki/Initial_D) and pure freedom when he get to explore the speeds with his car [AE86](https://en.wikipedia.org/wiki/Toyota_AE86) in [*Initial D*](https://en.wikipedia.org/wiki/Initial_D). Therefore, I am really interested in how to endow every machine on roads with the ability to drive like a skillful human driver, even like [Takumi Fujiwara](https://en.wikipedia.org/wiki/Initial_D). 
-- I have some experience in graphic design, and I designed the logo for the Joint Lab of Cambridge university and Tongji.
+- I have some experience in graphic design, and I designed the logo for the Joint Lab of Tongji and [University of Cambridge](https://www.csrf.ac.uk/).
 - I am also a big fan of guitar, especially [Fingerstyle](https://en.wikipedia.org/wiki/Fingerstyle_guitar). My favorite acoustic guitarist is [Tommy Emmanuel](https://en.wikipedia.org/wiki/Tommy_Emmanuel). Besides, I like playing ping pong, and I am good at [penhold grip](https://en.wikipedia.org/wiki/Table_tennis_styles). Now, I am learning to use the [shakehand grip](https://en.wikipedia.org/wiki/Table_tennis_styles). 
 
 <!--
