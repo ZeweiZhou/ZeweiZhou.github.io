@@ -178,10 +178,11 @@ _**Excellent Undergraduate Graduation Thesis**_. Advised: [Prof. Ling Zheng](htt
 
 
 # 🏅 Honors and Awards
+- *2022.11* Weichai Scholarship (*Top 2%*)
 - *2021.09* Tongji Outstanding Master’s Scholarship
 - *2019.09* Thanksgiving for Scientists Scholarship, China (*Highest scholarship in CQU, Top 0.2%*)
 - *2018.09* National Scholarship, China (*Highest scholarship for undergraduates awarded by the Chinese government, Top 0.2%*)
-- *2018 - 2019* CQU First-class Scholarship (_Four times, 2%_)
+- *2018 - 2019* CQU First-class Scholarship (_Four times, Top 2%_)
 
 ---
 
