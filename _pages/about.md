@@ -27,7 +27,7 @@ Intelligent reasoning is the key to safe and trustworthy autonomy. My primary re
 - *2020.09 - 2023.03*, M.S., Automotive Engineering, Tongji University (Tongji), Shanghai, China
   - GPA: 5.00/5.00 (92.36/100), Comprehensive Ranking: 1<sup>st</sup>/ 44, Test Waiver Admission, Tongji Outstanding Student (*Top 4%*)
 - *2016.09 - 2020.06*, B.Eng., Automotive Engineering (2017-2020) Industrial Design (2016-2017), Chongqing University (CQU), Chongqing, China
-  - GPA: 3.71/4.00 (94.89/100), Comprehensive Ranking: 1<sup>st</sup>/154 (*Top 0.6%*), CQU Outstanding Graduate
+  - GPA: 3.71/4.00 (89.73/100), Comprehensive Ranking: 1<sup>st</sup>/154 (*Top 0.6%*), CQU Outstanding Graduate
 
 <!--
 - Core Courses: System Identification (5.0/5.0), Modern Control Theory (5.0/5.0), Numerical Analysis (5.0/5.0)
