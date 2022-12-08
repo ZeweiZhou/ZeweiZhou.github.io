@@ -21,7 +21,7 @@ I am currently a final year M.S. student in the Institute of Intelligent Vehicle
 
 Intelligent reasoning is the key to safe and trustworthy autonomy. My primary research interests are the reasoning process (i.e. interactive prediction, decision-making, and planning) of autonomous systems, which can endow connected autonomous vehicles with the ability to intelligently interact and cooperate with others. 
 
-🎓[**I am searching for Ph.D. positions in the related field. (CV/Resume here)**](https://drive.google.com/file/d/1tCZg2Ix2oWThyRfjoqDl8y-pIX3uLnnE/view?usp=sharing)
+🎓[**I am searching for Ph.D. positions in the related field (CV/Resume here)**](https://drive.google.com/file/d/1tCZg2Ix2oWThyRfjoqDl8y-pIX3uLnnE/view?usp=sharing)
 
 # 📖 Educations
 - *2020.09 - 2023.03*, M.S., Automotive Engineering, Tongji University (Tongji), Shanghai, China
