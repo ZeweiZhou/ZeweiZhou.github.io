@@ -21,7 +21,7 @@ I am currently a final year M.S. student in the Institute of Intelligent Vehicle
 
 Intelligent reasoning is the key to safe and trustworthy autonomy. My primary research interests are the reasoning process (i.e. interactive prediction, decision-making, and planning) of autonomous systems, which can endow connected autonomous vehicles with the ability to intelligently interact and cooperate with others. 
 
-🎓[**I am searching for Ph.D. positions in the related field**]
+🎓[**I am searching for Ph.D. positions in the related field**]()
 
 # 📖 Educations
 - *2020.09 - 2023.03*, M.S., Automotive Engineering, Tongji University (Tongji), Shanghai, China
@@ -81,7 +81,7 @@ _**iScience (JCR Q1, Cell Press)**_, 2022
 <div class='paper-box'><div class='paper-box-image'><img src='images/Survey_on_Trajectory_Prediction_Methods.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[A Survey on Trajectory-Prediction Methods for Autonomous Driving]
+[A Survey on Trajectory-Prediction Methods for Autonomous Driving]()
 
 Yanjun Huang, Jiatong Du, Ziru Yang, **Zewei Zhou**, Lin Zhang, Hong Chen
 
@@ -95,7 +95,7 @@ _**IEEE Transactions on Intelligent Vehicles**_, 2022
 <div class='paper-box'><div class='paper-box-image'><img src='images/Evolutionary_Decision-Making_Planning.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Evolutionary Decision-Making and Planning for Autonomous Driving based on Safe and Rational Exploration and Exploitation]
+[Evolutionary Decision-Making and Planning for Autonomous Driving based on Safe and Rational Exploration and Exploitation]()
 
 Kang Yuan, Yanjun Huang, Shuo Yang, **Zewei Zhou**, Yulei Wang, Dongpu Cao, Hong Chen
 
@@ -123,7 +123,7 @@ _**IEEE Transactions on Intelligent Transportation System**_, 2022 (under review
 <div class='paper-box'><div class='paper-box-image'><img src='images/Reliable_Path_Planning_Method.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[A Reliable Path Planning Method for Lane Change Based on Hybrid PSO-IACO Algorithm]
+[A Reliable Path Planning Method for Lane Change Based on Hybrid PSO-IACO Algorithm]()
 
 **Zewei Zhou**, Zhuoping Yu, Lu Xiong, Dequan Zeng, Zhiqiang Fu, Zhuoren Li, Bo leng
 
